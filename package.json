@@ -1,0 +1,12 @@
+{
+  "name": "tic-tac-toe-main",
+  "version": "1.0.0",
+  "description": "## 🎯 Objetivo Um simples jogo da velha (tic-tac-toe) feito com React e Vite.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
